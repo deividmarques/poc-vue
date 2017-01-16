@@ -1,4 +1,4 @@
-# frontinsampa
+# Vue Poc
 
 > A Vue.js project
 
